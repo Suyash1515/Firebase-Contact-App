@@ -1,0 +1,1 @@
+The Firebase Contact App is a web application built with React for the frontend and styled using Tailwind CSS. It leverages Firebase for real-time database functionalities and user authentication. The app allows users to add, view, edit, and delete contact information, providing a seamless and responsive user experience.
